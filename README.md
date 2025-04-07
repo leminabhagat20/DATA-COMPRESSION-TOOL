@@ -27,3 +27,4 @@ In summary, this program serves as a great demonstration of how repetition in da
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/89d27c9b-14f2-4b01-a410-b4f322942940)
